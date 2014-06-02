@@ -1,0 +1,17 @@
+{
+  "name": "mobile.ui",
+  "version": "0.0.1",
+  "private": true,
+    
+  "dependencies": {
+  	"angular": "*",
+  	"bootstrap":"*",
+  	"socket.io-client":"*",
+  	"jquery":"*"
+  },
+  
+  "authors": [
+    "Stepan Karslyan <stepan.karslyan@gmail.com>"
+  ]
+  
+}
